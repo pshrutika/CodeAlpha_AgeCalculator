@@ -25,7 +25,8 @@ Main Page:
 ![Screenshot 2024-02-22 172505](https://github.com/pshrutika/CodeAlpha_AgeCalculator/assets/119094755/58582f54-c106-4b7d-b660-e3c5eda85537)
 
 Result Page:
-![Screenshot 2024-02-22 172525](https://github.com/pshrutika/CodeAlpha_AgeCalculator/assets/119094755/cb840536-b2ce-4f74-97d7-8edecfd192c2)
+![Screenshot 2024-02-22 172525](https://github.com/pshrutika/CodeAlpha_AgeCalculator/assets/119094755/0a9845b1-0157-4e78-b4ff-050cd2c554db)
+
 
 
 
