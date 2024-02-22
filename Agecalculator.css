@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: lightblue;
+}
+
+
+.container{
+    background-color: rgba(21, 243, 121, 0.068);
+    margin: 100px auto;
+    padding:10px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,10);
+    max-width: 500px;
+
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+
+input,button{
+    margin-top: 20px;
+    padding: 10px;
+    width:100%;
+    box-sizing: border-box;
+    font-size: 16px;
+    text-align: center;
+    text-transform:uppercase;
+}
+
+
+button {
+    background-color: #4caf50;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: gray;
+}
+
+#result {
+    font-size: 20px;
+    margin-top: 20px;
+}

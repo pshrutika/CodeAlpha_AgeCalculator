@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="images/calculator.png">
+
+    <!-- Title of the web page -->
+    <title>Age Calculator</title>
+
+    <!-- Link to external stylesheet for styling the age calculator -->
+    <link rel="stylesheet" href="Agecalculator.css">
+</head>
+
+<body>
+    <!-- Main container for the age calculator content -->
+    <div class="container">
+        
+        <!-- Heading for the age calculator -->
+        <h1>Age Calculator</h1>
+        
+        <!-- Label and input field for entering Date of Birth -->
+        <label for="dob">Enter your Date of Birth:</label>
+        <input type="date" id="dob">
+        
+        <!-- Button to trigger age calculation -->
+        <button onclick="calculateAge()">Calculate Age</button>
+        
+        <!-- Paragraph element to display the calculated age -->
+        <p id="result"></p>
+    </div>
+    
+    <!-- JavaScript file for age calculation logic -->
+    <script src="calculator.js"></script>
+</body>
+
+</html>
