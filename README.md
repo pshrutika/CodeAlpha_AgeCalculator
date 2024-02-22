@@ -21,6 +21,12 @@ Welcome to the Age Calculator project! This web application allows users to calc
 2. **Click "Calculate Age":** Press the "Calculate Age" button to calculate your age.
 3. **View Result:** Your age will be displayed below the input field.
 
+Main Page:
+![Screenshot 2024-02-22 172505](https://github.com/pshrutika/CodeAlpha_AgeCalculator/assets/119094755/58582f54-c106-4b7d-b660-e3c5eda85537)
+
+Result Page:
+![Screenshot 2024-02-22 172525](https://github.com/pshrutika/CodeAlpha_AgeCalculator/assets/119094755/cb840536-b2ce-4f74-97d7-8edecfd192c2)
+
 
 
 
